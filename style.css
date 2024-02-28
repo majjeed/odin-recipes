@@ -1,0 +1,13 @@
+* {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 5px;
+    padding: 5px;
+    background-color: beige;
+}
+
+
+li {
+    margin-left: 25%;
+    margin-right: 25%;
+}
