@@ -3,11 +3,41 @@
     text-align: center;
     margin: 5px;
     padding: 5px;
-    background-color: beige;
+    background-color: rgba(255, 255, 255, 0.801);
+    box-sizing: border-box;
+    background-color: rgba(128, 128, 128, 0.904);
 }
 
+ol,
+ul {
+    background-color: rgb(122, 122, 122);
+    margin: 10px auto;
+}
 
 li {
     margin-left: 25%;
     margin-right: 25%;
+}
+
+a {
+    padding: 8px 16px;
+    background-color: rgb(158, 158, 158);
+    font-size: 24px;
+    border-radius: 3%;
+    margin: 10px auto;
+    display: inline-block;
+}
+
+a:hover {
+    background-color: rgb(73, 73, 73);
+    font-size: 32px;
+    color: white;
+}
+
+img {
+    display: block;
+    background-color: grey;
+    margin: 0 auto;
+    padding: 0 auto;
+
 }
